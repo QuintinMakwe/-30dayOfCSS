@@ -6,3 +6,6 @@ Resource - https://www.youtube.com/watch?v=WXoMqxnAQwE
 
 #### Day 2 - Amazing Toggle Button with CSS
 Resource - https://www.youtube.com/watch?v=bq1SpzD8X2s&pbjreload=10
+
+#### Day 3 - Stunning Neon Buttons 
+Resource - https://www.youtube.com/watch?v=3RRgVHd2TXQ
