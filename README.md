@@ -9,3 +9,6 @@ Resource - https://www.youtube.com/watch?v=bq1SpzD8X2s&pbjreload=10
 
 #### Day 3 - Stunning Neon Buttons 
 Resource - https://www.youtube.com/watch?v=3RRgVHd2TXQ
+
+#### Day 4 - Simply Elegant Landing Page
+Resource - https://www.youtube.com/watch?v=Y8GaNB9Bnh8&list=LLSU6Cv5YFR2ef_nLzDm6PTA&index=48&t=318s
