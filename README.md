@@ -12,3 +12,6 @@ Resource - https://www.youtube.com/watch?v=3RRgVHd2TXQ
 
 #### Day 4 - Simply Elegant Landing Page
 Resource - https://www.youtube.com/watch?v=Y8GaNB9Bnh8&list=LLSU6Cv5YFR2ef_nLzDm6PTA&index=48&t=318s
+
+#### Day 5 - Ecstatic Shopping Card 
+Resource - https://www.youtube.com/watch?v=jUByQLfakJ8&list=LLSU6Cv5YFR2ef_nLzDm6PTA&index=9&t=4s
