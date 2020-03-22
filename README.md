@@ -15,3 +15,6 @@ Resource - https://www.youtube.com/watch?v=Y8GaNB9Bnh8&list=LLSU6Cv5YFR2ef_nLzDm
 
 #### Day 5 - Ecstatic Shopping Card 
 Resource - https://www.youtube.com/watch?v=jUByQLfakJ8&list=LLSU6Cv5YFR2ef_nLzDm6PTA&index=9&t=4s
+
+#### Day 6
+Resource - https://www.youtube.com/watch?v=a5wU64pKZSQ&t=25s
